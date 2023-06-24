@@ -12,15 +12,15 @@ café enviando un id en los parámetros que sea diferente al id dentro del paylo
  
  #### Resultado
 
- PASS  tests/server.spec.js
-  Operaciones CRUD de cafes
-    ✓ Código 200 comprueba 1 Arreglo al menos 1 Objeto (31 ms)
-    ✓ Código 404 si elimina id inexistente (10 ms)
-    ✓ Código 201 agrega nuevo registro exitosamente (15 ms)
-    ✓ Código 400 distinto id en parámetro y payload (4 ms)
+ PASS  tests/server.spec.js  
+  Operaciones CRUD de cafes  
+    ✓ Código 200 comprueba 1 Arreglo al menos 1 Objeto (31 ms)  
+    ✓ Código 404 si elimina id inexistente (10 ms)  
+    ✓ Código 201 agrega nuevo registro exitosamente (15 ms)  
+    ✓ Código 400 distinto id en parámetro y payload (4 ms)  
 
-Test Suites: 1 passed, 1 total
-Tests:       4 passed, 4 total
-Snapshots:   0 total
-Time:        0.564 s, estimated 1 s
+Test Suites: 1 passed, 1 total  
+Tests:       4 passed, 4 total  
+Snapshots:   0 total  
+Time:        0.564 s, estimated 1 s  
 Ran all test suites.
